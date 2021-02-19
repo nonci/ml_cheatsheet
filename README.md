@@ -3,12 +3,8 @@
 This is a work in progress!
 No correctness guarantee is given.
 
-Two versions exist:
-
-- CheatSheet_with_out.ipynb
-- CheatSheet.ipynb
-
-The first version also includes output.
+The relevant file is:
+ -- CheatSheet_with_out.ipynb --
 
 Some of the code is based (but not identical) to code by C. Sartori.
 
